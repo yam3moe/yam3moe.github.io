@@ -373,8 +373,8 @@ img {
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  height: 2.5rem; /*added this on Dec2nd 2024*/
-  width: 100%;
+  height: 4.5rem; /*added this on Dec2nd 2024*/
+  width: auto; /*changed from 100% to auto on Dec2nd 2024*/
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
