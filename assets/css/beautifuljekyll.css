@@ -401,6 +401,7 @@ img {
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img {
+    height: auto; /*added this on Dec2nd 2024*/
     width: 100%;
   }
 }
