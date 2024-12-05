@@ -10,17 +10,22 @@ hide_title: true
   }
 </style>
 
-# Teaching
+<!--  -->
+
+<!--# Teaching-->
 <!--Welcome to my **Teaching** page!--> 
 <!--Here, you'll find details about the courses I've taught and my approach to fostering an engaging and dynamic learning environment for students. I am deeply passionate about financial education, and my goal is to equip students with both theoretical and practical tools for success in their academic and professional careers.-->
 
 ## University of Nebraska - Lincoln
 
+
 ### Course Taught
 
 #### **FINA363 - Investment Principles** Spring 2024
 
+
 #### **FINA363 - Investment Principles** Fall 2024
+
 
 #### **ECON/FINA365 - Financial Markets and Institutions** Spring 2025
 
