@@ -22,16 +22,16 @@ hide_title: true
 ### Courses Taught
 
 
-#### **FINA363 - Investment Principles** Spring 2024
-- Class size : 48
-- Eval score : ...
-- Eval report: Download here
-- Syllabus  : Download here
+> #### **FINA363 - Investment Principles** Spring 2024
+> - Class size : 48
+> - Eval score : ...
+> - Eval report: Download here
+> - Syllabus  : Download here
 
-##### Some comments from students
-- xxx
-- xxx
-- xxx 
+> ##### Some comments from students
+> - xxx
+> - xxx
+> - xxx 
 
 #### **FINA363 - Investment Principles** Fall 2024
 
