@@ -2,6 +2,7 @@
 layout: page
 <!--title: Teaching-->
 <!--subtitle: about me-->
+hide_title: true
 ---
 
 # Teaching
