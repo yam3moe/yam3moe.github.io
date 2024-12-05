@@ -16,10 +16,10 @@ hide_title: true
 
   
 #### **FINA363 - Investment Principles** Spring 2024
-- Class size : 48
+- Class size: 35
 <!-- Eval score : ... -->
-- Eval report: Download here
-- Syllabus  : Download here
+- Eval report: Download [here]("/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf")
+- Syllabus: Download [here]("/assets/data/Syllabus for INVESTMENT PRINCIPLES FINA363 SEC 003 Spring 2024-protected.pdf")
   ###### Some comments from students
     - “Brandon is one of the best teachers I have had while at UNL and he makes coming to class enjoyable.”
     - “BMOE is the goat.”
@@ -33,8 +33,10 @@ hide_title: true
     - “Thank you for teaching an interesting course! best of luck to you in future. #increasebrandon’sstipend”
   
 #### **FINA363 - Investment Principles** Fall 2024
+- Class size: 48
+- to be updated later
 
 #### **ECON/FINA365 - Financial Markets and Institutions** Spring 2025
-
+- coming soon
 
 
