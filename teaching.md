@@ -17,7 +17,10 @@ hide_title: true
 <!--Here, you'll find details about the courses I've taught and my approach to fostering an engaging and dynamic learning environment for students. I am deeply passionate about financial education, and my goal is to equip students with both theoretical and practical tools for success in their academic and professional careers.-->
 
 ## University of Nebraska - Lincoln
+
+
 ### Courses Taught
+
 
 #### **FINA363 - Investment Principles** Spring 2024
 - Class size : 48
