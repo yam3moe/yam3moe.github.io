@@ -1,4 +1,3 @@
-
 ---
 layout: page
 hide_title: true
