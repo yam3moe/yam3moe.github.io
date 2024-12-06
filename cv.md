@@ -12,20 +12,17 @@ hide_title: true
 
 # Education
 
-### **Bachelor's in Electrical and Electronics Engineering**
-**National University of Singapore**  
-_2011-2015_
+### **National University of Singapore**  
+**Bachelor's in Electrical and Electronics Engineering**, _2011-2015_
 
 ---
 
-### **Master of Science (Finance)**
-**University of Missouri - Kansas City**  
-_2018-2019_
+### **University of Missouri - Kansas City**  
+**Master of Science (Finance)**, _2018-2019_
 
 ---
 
-### **Ph.D. in Business (Finance)**
-**University of Nebraska - Lincoln**  
-_2026 (expected)_
+### **University of Nebraska - Lincoln** 
+**Ph.D. in Business (Finance)**, _2026 (expected)_
 
 ---
