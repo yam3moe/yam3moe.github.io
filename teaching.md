@@ -12,11 +12,9 @@ hide_title: true
 ## University of Nebraska - Lincoln
 
 ### Courses Taught
-
-
   
 #### **FINA363 - Investment Principles** Spring 2024
-- Class size: 35
+- Size: 35
 - Syllabus: Download [here](/assets/data/2024Spring-FINA363-Section3-Syllabus-protected.pdf)
 - Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)
 <!-- Eval score : ... -->
@@ -52,10 +50,14 @@ hide_title: true
   -->
   
 #### **FINA363 - Investment Principles** Fall 2024
-- Class size: 48
-- to be updated later
+- Size: 48
+- Syllabus:
+- Evaluation:
+  
 
 #### **ECON/FINA365 - Financial Markets and Institutions** Spring 2025
-- coming soon
+- Size: 75
+- Syllabus:
+- Evaluation:
 
 
