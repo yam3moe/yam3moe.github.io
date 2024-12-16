@@ -24,7 +24,7 @@ hide_title: true
 ###### Comments
 <details>
   <summary>Students' Comments</summary>
-<div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;">
+<div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
   <p>"Brandon is one of the best teachers I have had while at UNL and he makes coming to class enjoyable."</p>
   <p>"BMOE is the goat."</p>
   <p>"He seems to check the box with every single thing applicable to a professor that I would like to have."</p>
