@@ -18,10 +18,10 @@ hide_title: true
 #### **FINA363 - Investment Principles** Spring 2024
 - Class size: 35
 - Syllabus: Download [here](/assets/data/2024Spring-FINA363-Section3-Syllabus-protected.pdf)
-- Eval report: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)
+- Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)
 <!-- Eval score : ... -->
 
-  ###### Comments
+###### Comments
 <details>
   <summary>Students' Comments</summary>
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
