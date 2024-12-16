@@ -21,7 +21,7 @@ hide_title: true
 - Eval report: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)
 <!-- Eval score : ... -->
 
-##### Some comments from students
+  ###### Comments
 <details>
   <summary>Students' Comments</summary>
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
