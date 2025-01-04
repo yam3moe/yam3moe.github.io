@@ -72,8 +72,8 @@ hide_title: true
 </details>
 
 #### **ECON/FINA365 - Financial Markets and Institutions** Spring 2025
-- Size: 75
-- Syllabus:
-- Evaluation:
+- Size: 80
+- Syllabus: TBAL
+- Evaluation: TBAL
 
 
