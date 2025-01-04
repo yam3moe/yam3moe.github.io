@@ -51,8 +51,8 @@ hide_title: true
   
 #### **FINA363 - Investment Principles** Fall 2024
 - Size: 48
-- Syllabus:
-- Evaluation:
+- Syllabus: Download [here](/assets/data/Syllabus for INVESTMENT PRINCIPLES FINA363 SEC 001 Fall 2024 _ kinda _ final _ passwordprotected.pdf)
+- Evaluation: Download [here](/assets/data/FINA-363-001.1248INVESTMENTPRINCIPLESFINA363SEC001Fall2024_BrandonMoe_detailedreport_comments-passwordprotected.pdf)
 
 ###### Comments
 <details>
