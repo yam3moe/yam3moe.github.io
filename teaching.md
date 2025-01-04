@@ -21,7 +21,7 @@ hide_title: true
 
 ###### Comments
 <details>
-  <summary>Students' Comments</summary>
+  <summary>SOME (NOT ALL) comments from students</summary>
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
   <p>"Brandon is one of the best teachers I have had while at UNL and he makes coming to class enjoyable."</p>
   <p>"BMOE is the goat."</p>
@@ -53,7 +53,23 @@ hide_title: true
 - Size: 48
 - Syllabus:
 - Evaluation:
-  
+
+###### Comments
+<details>
+  <summary>SOME (NOT ALL) comments from students</summary>
+<div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
+  <p>"It was very clear what I needed to do to pass this class. The lectures were helpful and was available to talk at any point when I was confused"</p>
+  <p>"I appreciate that Brandon let us use a cheat sheet for exams and gave us a formula sheet to study with. It was very nice to have those formulas in one place, with descriptions. It was something that he didn't have to do but did to make our lives easier. I appreciate that."</p>
+  <p>"...thank you for being a great professor and making this class fun and interesting! I learned a lot and I'm happy I took this course. Thank you again and Happy Holidays!"</p>
+  <p>"Very nice guy"</p>
+  <p>"He is always happy to talk after class to make sure I am following the lesson plans well."</p>
+  <p>"Professor Brandon is an incredible professor and is extremely supportive of his students. Anytime I needed help, he was always available to clarify things."</p>
+  <p>"Did a good job at communicating to students. Constantly kept up with emails."</p>
+  <p>"Love 363"</p>
+  <p>"He is an amazing teacher who really cares about all of the students."</p>
+  <p>"I appreciate your effort to teach real world skills, not just textbook definitions and such."</p>
+</div>
+</details>
 
 #### **ECON/FINA365 - Financial Markets and Institutions** Spring 2025
 - Size: 75
