@@ -57,7 +57,7 @@ hide_title: true
 ###### Comments
 <details>
   <summary>SOME (NOT ALL) comments from students</summary>
-<div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
+<div style="border: 1px solid #ccc; padding: 10px; background-color: #f3f3f3;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
   <p>"It was very clear what I needed to do to pass this class. The lectures were helpful and was available to talk at any point when I was confused"</p>
   <p>"I appreciate that Brandon let us use a cheat sheet for exams and gave us a formula sheet to study with. It was very nice to have those formulas in one place, with descriptions. It was something that he didn't have to do but did to make our lives easier. I appreciate that."</p>
   <p>"...thank you for being a great professor and making this class fun and interesting! I learned a lot and I'm happy I took this course. Thank you again and Happy Holidays!"</p>
