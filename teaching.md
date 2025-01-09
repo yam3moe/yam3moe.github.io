@@ -66,6 +66,7 @@ hide_title: true
   <p>"Professor Brandon is an incredible professor and is extremely supportive of his students. Anytime I needed help, he was always available to clarify things."</p>
   <p>"Did a good job at communicating to students. Constantly kept up with emails."</p>
   <p>"Love 363"</p>
+  <p>"Brandon is great!</p>
   <p>"He is an amazing teacher who really cares about all of the students."</p>
   <p>"I appreciate your effort to teach real world skills, not just textbook definitions and such."</p>
 </div>
