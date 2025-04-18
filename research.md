@@ -23,7 +23,7 @@ Do congress members trade on insider information? We answer this old question fr
 </div>
 </details>
 
-<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; margin-left: 12px; display: inline-block;"">
+<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; margin-left: 12px; display: inline-block;">
 Presentations: SWFA 2024, FMA 2024 (Best Paper Award semi-finalist)
 </p>
 
@@ -41,7 +41,7 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
 </div>
 </details>
 
-<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; padding:12px">
+<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; margin-left: 12px; display: inline-block;">
 Presentations: SWFA 2025, AsianFA 2025
 </p>
 
