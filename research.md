@@ -5,7 +5,7 @@ hide_title: true
 
 ### Working Papers:
 
-#### [Flow Hedging and Mutual Fund Performance](#)
+#### [Congressional Stock Trades and Economic Policy Uncertainty](#)
 
 <details>
 <summary><strong>Abstract</strong></summary>
