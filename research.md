@@ -3,6 +3,12 @@ layout: page
 hide_title: true
 ---
 
+<style>
+  .page-title {
+    display: none;
+  }
+</style>
+
 ### Working Papers:
 
 #### [Congressional Stock Trades and Economic Policy Uncertainty](#)
