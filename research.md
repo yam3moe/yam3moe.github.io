@@ -11,11 +11,11 @@ hide_title: true
 
 ### Working Papers:
 
-<a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; padding:12px">
+<a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 Congressional Stock Trades and Economic Policy Uncertainty
 </a>
 
-<details>
+<details style="margin-top: 2px;">
 <summary><strong>Abstract</strong></summary>
 
 <div style="background-color: #e7f3ff; padding: 9px 9px; border-radius: 6px; margin: 2px 0 1px 0; line-height: 1.5;">
@@ -23,9 +23,30 @@ Do congress members trade on insider information? We answer this old question fr
 </div>
 </details>
 
-<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; padding:12px">
+<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; margin-left: 12px; display: inline-block;"">
 Presentations: SWFA 2024, FMA 2024 (Best Paper Award semi-finalist)
 </p>
+
+
+
+<a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
+The Effect of TRACE Transparency on Reaching for Yield in the Corporate Bond Market
+</a>
+
+<details style="margin-top: 2px;">
+<summary><strong>Abstract</strong></summary>
+
+<div style="background-color: #e7f3ff; padding: 9px 9px; border-radius: 6px; margin: 2px 0 1px 0; line-height: 1.5;">
+Reaching for yield (RFY), which could arise from investment decision(s) made under regulatory constraints, from principal agent problem, from simply trying to achieve higher performance, or when interest rates were low, is a well-documented phenomenon in various types of financial securities, assets, and markets. This article studies the effect of mandated post-trade transparency among corporate bonds on the secondary market RFY. Defining RFY as the difference between a bond's yield and the average yield of bonds within the same rating category and using the difference-in-difference method, the results show that increased transparency from TRACE Phase 2 is associated with a rise in RFY of disseminated bonds. One potential driver of this effect is the increased demand for disseminated bonds by life insurers, but not P\&C insurers. In line with the existing literature, these higher-RFY bonds have lower future returns. When RFY is measured with the market-wide average yield as the benchmark, RFY increases for higher-rated bonds and decreases for lower-rated bonds during the period TRACE was progressively introduced. This suggests that transparency may have had contrasting effects on better-rated and lower-rated bonds.
+</div>
+</details>
+
+<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; padding:12px">
+Presentations: SWFA 2025, AsianFA 2025
+</p>
+
+
+
 
 ### Work in Progress:
 
