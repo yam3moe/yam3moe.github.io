@@ -15,7 +15,7 @@ hide_title: true
 Congressional Stock Trades and Economic Policy Uncertainty
 </a>
 
-<details style="margin-top: -8px;">
+<details style="margin-top: -21px;">
 <summary><strong>Abstract</strong></summary>
 
 <div style="background-color: #e7f3ff; padding: 9px 9px; border-radius: 6px; margin: 2px 0 1px 0; line-height: 1.5;">
