@@ -32,7 +32,7 @@ Presentations: SWFA 2024, FMA 2024 (Best Paper Award semi-finalist)
 The Effect of TRACE Transparency on Reaching for Yield in the Corporate Bond Market
 </a>
 
-<details style="margin-top: 0px;">
+<details style="margin-top: -21px;">
 <summary><strong>Abstract</strong></summary>
 
 <div style="background-color: #e7f3ff; padding: 9px 9px; border-radius: 6px; margin: 2px 0 1px 0; line-height: 1.5;">
