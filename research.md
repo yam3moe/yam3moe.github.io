@@ -1,6 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: about me
+hide_title: true
 ---
+
+
+<!--
 **_UNDER CONSTRUCTION_**, please check again later.
+-->
