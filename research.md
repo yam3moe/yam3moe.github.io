@@ -9,7 +9,7 @@ hide_title: true
   }
 </style>
 
-### Working Papers:
+### Working Papers
 
 <a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 Congressional Stock Trades and Economic Policy Uncertainty
@@ -27,8 +27,7 @@ Do congress members trade on insider information? We answer this old question fr
 Presentations: SWFA 2024, FMA 2024 (Best Paper Award semi-finalist)
 </p>
 
-
-
+<!--
 <a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 The Effect of TRACE Transparency on Reaching for Yield in the Corporate Bond Market
 </a>
@@ -44,11 +43,9 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
 <p style="font-family: monospace; margin: 3px 0 0 0; color: gray; margin-left: 12px; display: inline-block;">
 Presentations: SWFA 2025, AsianFA 2025
 </p>
+-->
 
-
-
-
-### Work in Progress:
+### Work in Progress
 
 <!--
 **_UNDER CONSTRUCTION_**, please check again later.
