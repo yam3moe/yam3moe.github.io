@@ -11,7 +11,7 @@ hide_title: true
 
 ### Working Papers:
 
-<a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 24px; margin: 0; padding:12px">
+<a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; padding:12px">
 Congressional Stock Trades and Economic Policy Uncertainty
 </a>
 
