@@ -21,7 +21,7 @@ Do congress members trade on insider information? We answer this old question fr
 </div>
 </details>
 
-<p style="font-style: normal; font-family: monospace; color: gray; font-size: 90%; margin-top: 10px;">
+<p style="font-family: monospace; color: gray; font-size: 90%; margin-top: 10px;">
 Presentations: SWFA 2024, FMA 2024 (Best Paper Award semi-finalist)
 </p>
 
