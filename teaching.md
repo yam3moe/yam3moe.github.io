@@ -44,8 +44,7 @@ hide_title: true
   <p>"Thank you for being an awesome teacher!"</p>
   <p>"Great professor, really helpful with anything you need."</p>
   <p>"Thank you for teaching an interesting course! Best of luck to you in future. #increasebrandonsstipend"</p>
-  <p> See more here ... </p>
-</div>
+  </div>
 </details>
 
   <!--
