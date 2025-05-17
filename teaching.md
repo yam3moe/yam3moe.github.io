@@ -106,16 +106,7 @@ hide_title: true
 - Evaluation: TBAL
 <!--- Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)-->
 <!-- Eval score : ... -->
-<!--
-###### Comments
-<details>
-  <summary>SOME (NOT ALL) comments from students</summary>
-<div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> 
-  <p>""</p>
- 
-</div>
-</details>
--->
+
 
 <div style="margin-top: 3em;"></div>
 <p>The syllabus and evaluation files are password-protected. Feel free to email me for the passwords.</p>
