@@ -11,6 +11,18 @@ hide_title: true
 
 ## University of Nebraska - Lincoln
 
+### Teaching Recognition
+<ul style="list-style-type: '💡 '; padding-left: 1.2em;">
+  <li>UNL CoB PhD Student Teaching Award Top2 Finalist</li>
+  <li>
+    UNL Teaching and Learning Center New Course Development Grant (for FINA365)
+    <ul style="list-style-type: '↳ '; padding-left: 1.5em; margin-top: 0.3em;">
+      <li>Given to instructors who are teaching the course for the first time.</li>
+    </ul>
+  </li>
+</ul>
+
+
 ### Courses Taught
   
 #### **FINA363 - Investment Principles** Spring 2024
