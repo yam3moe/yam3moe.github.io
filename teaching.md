@@ -16,7 +16,7 @@ hide_title: true
   <li>UNL CoB PhD Student Teaching Award Top2 Finalist</li>
   <li>
     UNL Teaching and Learning Center New Course Development Grant (for FINA365)
-    <ul style="list-style-type: '↳ '; padding-left: 1.5em; margin-top: 0.3em;">
+    <ul style="list-style-type: '📘'; padding-left: 1.5em; margin-top: 0.3em;">
       <li>Given to instructors who are teaching the course for the first time.</li>
     </ul>
   </li>
@@ -44,6 +44,7 @@ hide_title: true
   <p>"Thank you for being an awesome teacher!"</p>
   <p>"Great professor, really helpful with anything you need."</p>
   <p>"Thank you for teaching an interesting course! Best of luck to you in future. #increasebrandonsstipend"</p>
+  <p> See more here ... </p>
 </div>
 </details>
 
