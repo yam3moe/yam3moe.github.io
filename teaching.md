@@ -13,10 +13,10 @@ hide_title: true
 
 ### Teaching Recognition
 <ul style="list-style-type: '💡 '; padding-left: 1.2em;">
-  <li>UNL CoB PhD Student Teaching Award Top2 Finalist</li>
+  <li>UNL CoB PhD Student Teaching Award Top2 Finalist. See proof [here.](/assets/img/2024_phd_teaching_award_proof.png)</li>
   <li>
-    UNL Teaching and Learning Center New Course Development Grant (for FINA365)
-    <ul style="list-style-type: '📘'; padding-left: 1.5em; margin-top: 0.3em;">
+    UNL Teaching and Learning Center New Course Development Grant (for FINA365). See proof [here.](/assets/data/TLCGrant_byam.pdf) 
+    <ul style="list-style-type: '📘'; padding-left: 1.5em; margin-top: 0.34em;">
       <li>Given to instructors who are teaching the course for the first time.</li>
     </ul>
   </li>
