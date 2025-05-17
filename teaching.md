@@ -17,7 +17,7 @@ hide_title: true
   <li>
     UNL Teaching and Learning Center New Course Development Grant (for FINA365). See proof <a href="/assets/data/TLCGrant_byam.pdf">here</a>.
     <ul style="list-style-type: '📘'; padding-left: 1.5em; margin-top: 0.34em;">
-      <li>Given to instructors who are teaching the course for the first time.</li>
+      <li>Given to instructors who are teaching the course for the first time. Designed new teaching materials from scratch. </li>
     </ul>
   </li>
 </ul>
