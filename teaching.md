@@ -95,10 +95,7 @@ hide_title: true
 ###### Comments
 <details>
   <summary>SOME (NOT ALL) comments from students</summary>
-<div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> 
-  <p>""</p>
-  <p>""</p>
-  <p>""</p>
+<div style="border: 1px solid #ccc; padding: 10px; background-color: #fffde7;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
 </div>
 </details>
 
