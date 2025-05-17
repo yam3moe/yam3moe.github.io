@@ -22,6 +22,7 @@ hide_title: true
   </li>
 </ul>
 
+<div style="margin-top: 3em;"></div>
 
 ### Courses Taught
   
