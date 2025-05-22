@@ -24,7 +24,7 @@ hide_title: true
 
 <div style="margin-top: 3em;"></div>
 
-### Courses Taught
+### Courses Taught as a Primary Instructor
   
 #### **FINA363 - Investment Principles** Spring 2024
 - Size: 35
