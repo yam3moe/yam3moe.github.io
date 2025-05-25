@@ -88,7 +88,7 @@ hide_title: true
 #### **ECON/FINA365 - Financial Markets and Institutions** Spring 2025
 - Size: 81
 - Syllabus: Download [here](/assets/data/2025Spring-FINA365-Section2-Syllabus-protected.pdf)
-- Evaluation: Download [here] (/assets/data/2025Spring-FINA365-Section2-detailedreportandcomments-protected.pdf)
+- Evaluation: Download [here](/assets/data/2025Spring-FINA365-Section2-detailedreportandcomments-protected.pdf)
 <!--- Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)-->
 <!-- Eval score : ... -->
 
