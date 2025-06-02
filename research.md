@@ -12,7 +12,7 @@ hide_title: true
 ### Working Papers
 
 <a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
-Congressional Stock Trades and Economic Policy Uncertainty
+Congressional Stock Trades and Economic Policy Uncertainty <span style="font-size: 14px; color: black; font-weight: normal;">[Lead Author]</span>
 </a>
 
 <details style="margin-top: -21px;">
@@ -23,11 +23,12 @@ Do congress members trade on insider information? We answer this old question fr
 </div>
 </details>
 
-<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; margin-left: 12px; display: inline-block;">
-Presentations: SWFA 2024, FMA 2024 (Best Paper Award semi-finalist)
-</p>
+<div style="margin-left: 12px;">
+  <p style="margin: 0;">Co-author: Yao Ma</p>
+  <p style="margin: 0;">Presentations: SWFA 2024, FMA 2024 (Best Paper Award semi-finalist)</p>
+</div>
 
-<!--
+
 <a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 The Effect of TRACE Transparency on Reaching for Yield in the Corporate Bond Market
 </a>
@@ -40,13 +41,12 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
 </div>
 </details>
 
-<p style="font-family: monospace; margin: 3px 0 0 0; color: gray; margin-left: 12px; display: inline-block;">
-Presentations: SWFA 2025, AsianFA 2025
-</p>
--->
+<div style="margin-left: 12px;">
+  <p style="margin: 0;">Co-author: None</p>
+  <p style="margin: 0;">Presentations: SWFA 2025, AsianFA 2025</p>
+</div>
 
 ### Work in Progress
 
-<!--
-**_UNDER CONSTRUCTION_**, please check again later.
--->
+
+<p>**_UNDER CONSTRUCTION_**, please check again later.</p>
