@@ -22,6 +22,8 @@ hide_title: true
   </li>
 </ul>
 
+See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement-protected.pdf)
+
 <div style="margin-top: 3em;"></div>
 
 ### Courses Taught as a Primary Instructor
