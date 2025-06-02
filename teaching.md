@@ -125,5 +125,5 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 
 
 <div style="margin-top: 3em;"></div>
-<p>The syllabus and evaluation files are password-protected. Feel free to email me for the passwords.</p>
+<p>The teaching statement, syllabus, and evaluation files are password-protected. Please email me to obtain the password(s).</p>
 
