@@ -23,6 +23,7 @@ hide_title: true
 </ul>
 
 See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement-protected.pdf)
+<br>
 <a href="https://www.ratemyprofessors.com/professor/2991443">Rate My Professors page</a>
 
 <div style="margin-top: 3em;"></div>
