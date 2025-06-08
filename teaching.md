@@ -103,7 +103,7 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
   <p>"Brandon is not perfect, but perfect is Brandon"</p>
   <p>"There is a lot of content covered in this class, but it is all very connected. Studying, doing practice problems, and class instruction help bring those pieces together, and it is very rewarding when it clicks."</p>
   <p>"Brandon does a great job of creating a welcoming environment that really encourages learning. He wants us all to get the most out of this class and he does a great job of engaging with the class which in turn makes us want to learn more."</p>
-  <p>"He's the bestp rofessor who cares about students' success and what students can get from his lectures."</p>
+  <p>"He's the best professor who cares about students' success and what students can get from his lectures."</p>
   <p>"Brandon is the most passionate professor I've seen besides ... this semester. I'd recommend that the University hires Brandon as he actually cares and has great stories and explanations for Finance."</p>
   <p>"Professor Moe has given us a lot of great material and is very supportive in helping our learning. Best finance professor in my whole college experience."</p>
   <p>"Every time I had a question, he would get back to me quickly and would answer the question thoroughly. I think that is important for a professor."</p>
