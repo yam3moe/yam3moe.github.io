@@ -45,7 +45,7 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
 <div style="margin-left: 12px;">
   <p style="margin: 0;">Co-author: None</p>
   <p style="margin: 0;">Presentation(s): SWFA 2025, AsianFA 2025</p>
-  <p style="margin: 0;">Noteworthy: AsianFA 2025 Best Paper Award</p>
+  <p style="margin: 0;">Noteworthy: AsianFA 2025 Doctoral Consortium Best Paper Award</p>
   <p style="margin: 0;">Revise and Resubmit at Financial Review</p>
 </div>
 
