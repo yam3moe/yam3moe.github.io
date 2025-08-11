@@ -26,7 +26,7 @@ Do congress members trade on insider information? We answer this old question fr
   <p style="margin: 0;">Co-author: Yao Ma</p>
   <p style="margin: 0;">Presentation(s): SWFA 2024, FMA 2024</p>
   <p style="margin: 0;">Invited Presentation(s): Wolfe Research June 2025</p>
-  <p style="margin: 0;">Noteworthy: FMA 2024 Best Paper Award semi-finalist, SSRN Top 10 download list x 2, FEB-RN Research Paper No.13/2024</p>
+  <p style="margin: 0;">Noteworthy: <b>FMA 2024 Best Paper Award semi-finalist</b>, SSRN Top 10 download list x 2, FEB-RN Research Paper No.13/2024</p>
 </div>
 
 
@@ -45,7 +45,7 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
 <div style="margin-left: 12px;">
   <p style="margin: 0;">Co-author: None</p>
   <p style="margin: 0;">Presentation(s): SWFA 2025, AsianFA 2025</p>
-  <p style="margin: 0;">Noteworthy: AsianFA 2025 Doctoral Consortium Best Paper Award</p>
+  <p style="margin: 0;">Noteworthy: <b>AsianFA 2025 Doctoral Consortium Best Paper Award</b></p>
   <p style="margin: 0;">Revise and Resubmit at Financial Review</p>
 </div>
 
