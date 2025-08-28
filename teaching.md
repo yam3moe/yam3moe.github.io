@@ -119,12 +119,16 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 
 
 #### **ECON/FINA365 - Financial Markets and Institutions** Fall 2025
-- Size: 48
-- Syllabus: TBAL
+- Size: 50
+- Syllabus: 
 - Evaluation: TBAL
 <!--- Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)-->
 <!-- Eval score : ... -->
 
+#### **ECON/FINA365 - Financial Markets and Institutions** Spring 2026
+- Size: TABL
+- Syllabus: TBAL
+- Evaluation: TBAL
 
 <div style="margin-top: 3em;"></div>
 <p>The teaching statement, syllabus, and evaluation files are password-protected. Please email me to obtain the password(s).</p>
