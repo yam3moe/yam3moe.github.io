@@ -10,7 +10,7 @@ hide_title: true
 
 ### Working Papers
 
-<a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571202" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 Congressional Stock Trades and Economic Policy Uncertainty <span style="font-size: 14px; color: black; font-weight: normal;">[Lead Author]</span>
 </a>
 
@@ -30,7 +30,7 @@ Do congress members trade on insider information? We answer this old question fr
 </div>
 
 
-<a href="https://link-to-paper.com" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279487" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 The Effect of TRACE Transparency on Reaching for Yield in the Corporate Bond Market
 </a>
 
