@@ -36,7 +36,6 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 - Syllabus: Download [here](/assets/data/2024Spring-FINA363-Section3-Syllabus-protected.pdf)
 - Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)
 <!-- Eval score : ... -->
-
 <!--
 ###### Comments
 <details>
