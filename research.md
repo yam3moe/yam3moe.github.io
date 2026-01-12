@@ -49,7 +49,7 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
   <p style="margin: 0;">Revise and Resubmit at Financial Review</p>
 </div>
 
-
+<!--
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279487" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 The Value of a Politically Connected Board Member: Evidence from Determinants and Influence of Revolving Door Lobbyist Hires
 </a>
@@ -67,3 +67,4 @@ As the political system and the corporate world become increasingly interconnect
   <p style="margin: 0;">Presentation(s): SBSFC 2025, NZFM 2025, SWFA 2026</p>
   <p style="margin: 0;">Noteworthy: NZFM 2025 Best PhD Student Paper Award nomination</p>
 </div>
+-->
