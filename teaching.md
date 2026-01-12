@@ -31,15 +31,18 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 ### Courses Taught as a Primary Instructor
   
 #### **[1]FINA363 - Investment Principles** Spring 2024
+<!--
 - Size: 35
 - Syllabus: Download [here](/assets/data/2024Spring-FINA363-Section3-Syllabus-protected.pdf)
 - Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)
 <!-- Eval score : ... -->
 
+<!--
 ###### Comments
 <details>
   <summary>SOME (NOT ALL) comments from students</summary>
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
+<!--  
   <p>"Brandon is one of the best teachers I have had while at UNL and he makes coming to class enjoyable."</p>
   <p>"BMOE is the goat."</p>
   <p>"He seems to check the box with every single thing applicable to a professor that I would like to have."</p>
@@ -51,7 +54,7 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
   <p>"Thank you for teaching an interesting course! Best of luck to you in future. #increasebrandonsstipend"</p>
   </div>
 </details>
-
+-->
   <!--
   ###### Some comments from students
     - “Brandon is one of the best teachers I have had while at UNL and he makes coming to class enjoyable.”
@@ -67,6 +70,7 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
   -->
   
 #### **[2]FINA363 - Investment Principles** Fall 2024
+<!--
 - Size: 48
 - Syllabus: Download [here](/assets/data/2024Fall-FINA363-Section1-kindafinal-Syllabus-protected.pdf)
 - Evaluation: Download [here](/assets/data/2024Fall-FINA363-Section1-DetailedReportandComments-protected.pdf)
@@ -75,6 +79,7 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 <details>
   <summary>SOME (NOT ALL) comments from students</summary>
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f3f3f3;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
+<!--  
   <p>"It was very clear what I needed to do to pass this class. The lectures were helpful and was available to talk at any point when I was confused"</p>
   <p>"I appreciate that Brandon let us use a cheat sheet for exams and gave us a formula sheet to study with. It was very nice to have those formulas in one place, with descriptions. It was something that he didn't have to do but did to make our lives easier. I appreciate that."</p>
   <p>"...thank you for being a great professor and making this class fun and interesting! I learned a lot and I'm happy I took this course. Thank you again and Happy Holidays!"</p>
@@ -96,10 +101,12 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 <!--- Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)-->
 <!-- Eval score : ... -->
 
+<!--
 ###### Comments
 <details>
   <summary>SOME (NOT ALL) comments from students</summary>
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #fffde7;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
+<!--  
   <p>"Brandon is not perfect, but perfect is Brandon"</p>
   <p>"There is a lot of content covered in this class, but it is all very connected. Studying, doing practice problems, and class instruction help bring those pieces together, and it is very rewarding when it clicks."</p>
   <p>"Brandon does a great job of creating a welcoming environment that really encourages learning. He wants us all to get the most out of this class and he does a great job of engaging with the class which in turn makes us want to learn more."</p>
@@ -116,21 +123,16 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
   <p>"I thoroughly enjoyed going to class all semester."</p>
 </div>
 </details>
-
+-->
 
 #### **[4]ECON/FINA365 - Financial Markets and Institutions** Fall 2025
+<!--
 - Size: 50
 - Syllabus: TBAL
 - Evaluation: TBAL
 <!--- Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)-->
 <!-- Eval score : ... -->
 
-#### **[5]ECON/FINA365 - Financial Markets and Institutions** Spring 2026 (scheduled)
-<!--
-- Size:
-- Syllabus:
-- Evaluation: 
--->
 <div style="margin-top: 3em;"></div>
-<p>The teaching statement, syllabus, and evaluation files are password-protected. Please email me to obtain the password(s).</p>
+<p>The teaching statement is password-protected. Please email me to obtain the password(s).</p>
 
