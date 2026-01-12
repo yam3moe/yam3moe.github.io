@@ -31,6 +31,9 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 ### Courses Taught as a Primary Instructor
   
 #### **[1]FINA363 - Investment Principles** Spring 2024
+#### **[2]FINA363 - Investment Principles** Fall 2024
+#### **[3]ECON/FINA365 - Financial Markets and Institutions** Spring 2025
+#### **[4]ECON/FINA365 - Financial Markets and Institutions** Fall 2025
 <!--
 - Size: 35
 - Syllabus: Download [here](/assets/data/2024Spring-FINA363-Section3-Syllabus-protected.pdf)
@@ -67,7 +70,7 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
     - “Great professor, really helpful with anything you need”
     - “Thank you for teaching an interesting course! best of luck to you in future. #increasebrandon’sstipend”
   -->  
-#### **[2]FINA363 - Investment Principles** Fall 2024
+
 <!--
 - Size: 48
 - Syllabus: Download [here](/assets/data/2024Fall-FINA363-Section1-kindafinal-Syllabus-protected.pdf)
@@ -92,7 +95,7 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 </div>
 </details>
 -->
-#### **[3]ECON/FINA365 - Financial Markets and Institutions** Spring 2025
+
 <!--
 - Size: 81
 - Syllabus: Download [here](/assets/data/2025Spring-FINA365-Section2-Syllabus-protected.pdf)
@@ -122,7 +125,6 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 </div>
 </details>
 -->
-#### **[4]ECON/FINA365 - Financial Markets and Institutions** Fall 2025
 <!--
 - Size: 50
 - Syllabus: TBAL
