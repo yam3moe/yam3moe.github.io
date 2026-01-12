@@ -26,7 +26,7 @@ Do congress members trade on insider information? We answer this old question fr
   <p style="margin: 0;">Co-author: Yao Ma</p>
   <p style="margin: 0;">Presentation(s): SWFA 2024, FMA 2024</p>
   <p style="margin: 0;">Invited Presentation(s): Wolfe Research June 2025</p>
-  <p style="margin: 0;">Noteworthy: <b>FMA 2024 Best Paper Award semi-finalist</b>, SSRN Top 10 download list x 2, FEB-RN Research Paper No.13/2024</p>
+  <p style="margin: 0;">Noteworthy: FMA 2024 Best Paper Award semi-finalist, SSRN Top 10 download list x 2, FEB-RN Research Paper No.13/2024</p>
 </div>
 
 
@@ -45,13 +45,29 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
 <div style="margin-left: 12px;">
   <p style="margin: 0;">Co-author: None</p>
   <p style="margin: 0;">Presentation(s): SWFA 2025, AsianFA 2025</p>
-  <p style="margin: 0;">Noteworthy: <b>AsianFA 2025 Doctoral Consortium Best Paper Award</b></p>
+  <p style="margin: 0;">Noteworthy: AsianFA 2025 Doctoral Consortium Best Paper Award</p>
   <p style="margin: 0;">Revise and Resubmit at Financial Review</p>
 </div>
 
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279487" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
+The Value of a Politically Connected Board Member: Evidence from Determinants and Influence of Revolving Door Lobbyist Hires
+</a>
+As the political system and the corporate world become increasingly interconnected, the demand for—and the value of—individuals who possess experience and knowledge of both the political process and corporate activities is bound to rise. Using a hand-collected data set of Revolving Door Lobbyists (RDLs), we hypothesize that RDLs are well-suited to guide firms in their lobbying activities and in managing litigation risks, two major pieces of corporate management that affect shareholder value and firm performance. Using a battery of empirical tests, we document that firms report lower lobbying expenditures and experience fewer government-filed litigation cases in the years following the appointment of RDLs. We also report that institutional investors respond to firms hiring RDLs by increasing their holdings and act as a moderating factor on the effect of RDLs on lobbying and litigation risk. Lastly, we demonstrate that RDLs—unique in terms of their experience with and relationship to both politicians and corporations—get a higher remuneration relative to their non-RDL counterparts, highlighting the essential value of services and expertise they bring to boards.
+<details style="margin-top: -21px;">
+<summary><strong>Abstract</strong></summary>
+
+<div style="background-color: #e7f3ff; padding: 9px 9px; border-radius: 6px; margin: 2px 0 1px 0; line-height: 1.5;">
+
+</div>
+</details>
+
+<div style="margin-left: 12px;">
+  <p style="margin: 0;">Co-author: Shuliu Hu, Xiaoli Ma</p>
+  <p style="margin: 0;">Presentation(s): SBSFC 2025, NZFM 2025, SWFA 2026</p>
+  <p style="margin: 0;">Noteworthy: NZFM 2025 Best PhD Student Paper Award nomination</p>
+</div>
 <!--
 ### Work in Progress
-
+<!--
 <p>**_UNDER CONSTRUCTION_**, please check again later.</p>
-
--->
