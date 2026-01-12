@@ -67,8 +67,7 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
     - Brandon has been a great professor since the first day of class. He understands we are college students and is very helpful.”
     - “Great professor, really helpful with anything you need”
     - “Thank you for teaching an interesting course! best of luck to you in future. #increasebrandon’sstipend”
-  -->
-  
+  -->  
 #### **[2]FINA363 - Investment Principles** Fall 2024
 <!--
 - Size: 48
@@ -101,7 +100,6 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 - Evaluation: Download [here](/assets/data/2025Spring-FINA365-Section2-detailedreportandcomments-protected.pdf)
 <!--- Evaluation: Download [here](/assets/data/2024Spring-FINA363-Section3-DetailedReportandComments-protected.pdf)-->
 <!-- Eval score : ... -->
-
 <!--
 ###### Comments
 <details>
@@ -125,7 +123,6 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 </div>
 </details>
 -->
-
 #### **[4]ECON/FINA365 - Financial Markets and Institutions** Fall 2025
 <!--
 - Size: 50
