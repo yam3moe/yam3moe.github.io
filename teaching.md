@@ -93,8 +93,9 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
   <p>"I appreciate your effort to teach real world skills, not just textbook definitions and such."</p>
 </div>
 </details>
-
+-->
 #### **[3]ECON/FINA365 - Financial Markets and Institutions** Spring 2025
+<!--
 - Size: 81
 - Syllabus: Download [here](/assets/data/2025Spring-FINA365-Section2-Syllabus-protected.pdf)
 - Evaluation: Download [here](/assets/data/2025Spring-FINA365-Section2-detailedreportandcomments-protected.pdf)
