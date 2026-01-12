@@ -60,8 +60,6 @@ The Value of a Politically Connected Board Member: Evidence from Determinants an
 <div style="background-color: #e7f3ff; padding: 9px 9px; border-radius: 6px; margin: 2px 0 1px 0; line-height: 1.5;">
 As the political system and the corporate world become increasingly interconnected, the demand for—and the value of—individuals who possess experience and knowledge of both the political process and corporate activities is bound to rise. Using a hand-collected data set of Revolving Door Lobbyists (RDLs), we hypothesize that RDLs are well-suited to guide firms in their lobbying activities and in managing litigation risks, two major pieces of corporate management that affect shareholder value and firm performance. Using a battery of empirical tests, we document that firms report lower lobbying expenditures and experience fewer government-filed litigation cases in the years following the appointment of RDLs. We also report that institutional investors respond to firms hiring RDLs by increasing their holdings and act as a moderating factor on the effect of RDLs on lobbying and litigation risk. Lastly, we demonstrate that RDLs—unique in terms of their experience with and relationship to both politicians and corporations—get a higher remuneration relative to their non-RDL counterparts, highlighting the essential value of services and expertise they bring to boards.
 <details style="margin-top: -21px;">
-<summary><strong>Abstract</strong></summary>
-
 </div>
 </details>
 
