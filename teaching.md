@@ -34,6 +34,19 @@ See Teaching Statement [here](/assets/data/brandon-teaching-philosophy-statement
 #### **[2]FINA363 - Investment Principles** Fall 2024
 #### **[3]ECON/FINA365 - Financial Markets and Institutions** Spring 2025
 #### **[4]ECON/FINA365 - Financial Markets and Institutions** Fall 2025
+###### Comments
+<details>
+  <summary>Qualitative Evaluations from Students</summary>
+<div style="border: 1px solid #ccc; padding: 10px; background-color: #e7f3ff;"> <!-- #f9f9f9 #f3f3f3 #fffde7 #e8f5e9 #f3e5f5 -->
+  <p>"Dear Brandon, Thank you so much for being the best PhD teacher I’ve had yet! I really enjoyed your humor and positivity you brought to every lecture. I hope I see you again!"</p>
+  <p>"Thank you for teaching an interesting course! Best of luck to you in future. #increasebrandonsstipend"</p>
+  <p>"I appreciate that Brandon let us use a cheat sheet for exams and gave us a formula sheet to study with. It was very nice to have those formulas in one place, with descriptions. It was something that he didn't have to do but did to make our lives easier. I appreciate that."</p>
+  <p>"I appreciate your effort to teach real world skills, not just textbook definitions and such."</p>
+  <p>"There is a lot of content covered in this class, but it is all very connected. Studying, doing practice problems, and class instruction help bring those pieces together, and it is very rewarding when it clicks."</p>
+  <p>"I've enjoyed the professor a lot. He is funny, engaging, and teaches in a clean and concise manner."</p>
+  <p>"He was the best teacher I had and made me more knowledgeable in finance."</p> 
+</div>
+</details>
 <!--
 - Size: 35
 - Syllabus: Download [here](/assets/data/2024Spring-FINA363-Section3-Syllabus-protected.pdf)
