@@ -49,6 +49,26 @@ Reaching for yield (RFY), which could arise from investment decision(s) made und
   <p style="margin: 0;">Revise and Resubmit at Financial Review</p>
 </div>
 
+<a style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
+The Gift that Keeps on Giving to Investors: Does the Corporate Bond Market Learn from Politicians’ Stock Trades?
+</a>
+
+<details style="margin-top: -21px;">
+<summary><strong>Abstract</strong></summary>
+
+<div style="background-color: #e7f3ff; padding: 9px 9px; border-radius: 6px; margin: 2px 0 1px 0; line-height: 1.5;">
+We study in this paper whether U.S. politicians’ stock trades convey information to the corporate bond market. Using a comprehensive dataset of Congressional stock transactions from 2012–2024, we find that bond investors incorporate these trades into pricing in both the primary and secondary markets. In the primary market, bonds issued by firms whose stocks were net purchased (sold) by legislators have significantly lower (higher) offering yield spreads, particularly when trades are bipartisan or involve many lawmakers. In the secondary market, disclosures of Congressional stock trades are followed by significant bond return reactions, especially for larger trades and transactions with shorter reporting delays. Moreover, rating downgrades are more likely for bonds of firms whose stocks were sold by politicians, while stock purchases do not predict upgrades. Overall, we provide the first systematic evidence that Congressional trading activity transmits information to the corporate bond market, demonstrating an important cross-market channel through which politicians’ stock trades influence the corporate bond market.
+</div>
+</details>
+
+<div style="margin-left: 12px;">
+  <p style="margin: 0;">Co-author: Ailin Chen</p>
+  <p style="margin: 0;">Presentation(s): AFA PhD Student Poster Session, SWFA 2026 </p>
+  <!--<p style="margin: 0;">Noteworthy: </p>-->
+  <!--<p style="margin: 0;">Revise and Resubmit at Financial Review</p>-->
+</div>
+
+
 <!--
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5279487" style="text-decoration: none; color: red; font-weight: bold; font-size: 25px; margin: 0; margin-left: 12px; display: inline-block;">
 The Value of a Politically Connected Board Member: Evidence from Determinants and Influence of Revolving Door Lobbyist Hires
