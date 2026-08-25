@@ -23,6 +23,9 @@ hide_title: true
 ---
 
 ### **University of Nebraska - Lincoln** 
-**Ph.D. in Business (Finance)**, _2026 (expected)_
+**Ph.D. in Business (Finance)**, _2021-2026_
 
 ---
+
+### **University of Nebraska at Kearney**
+**Assistant Professor of Finance**, _2026-present_
